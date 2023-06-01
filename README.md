@@ -1,7 +1,7 @@
 # SMS-Spam-Classifier-NLP-Project
 
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
-![IDE](https://img.shields.io/badge/Field-Natural Language Processing-orange.svg)
+![IDE](https://img.shields.io/badge/Field-NaturalLanguageProcessing-orange.svg)
 ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-darkgreen.svg)
 

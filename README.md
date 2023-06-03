@@ -7,6 +7,7 @@
 
 This is SMS classifier ml project which test the performance of different classification models available and finally concludes with the most suitable model to build a support vector classifier.
 
+
 ```mermaid
 flowchart TD
 A[Step 0 : Collect Data] --> B[Step 1 : Import Libraries/Modules in the workspace]
